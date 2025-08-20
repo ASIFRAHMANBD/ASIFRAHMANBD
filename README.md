@@ -18,10 +18,10 @@
 ## 👨‍💻 About Me
 - 🌟 **7+ years experience** in software engineering  
 - 💡 **Full-Stack Engineer** with focus on **scalable systems & clean architecture**  
-- 🛠️ Strong in **Microservices, Event-driven architecture, Cloud-native apps**  
-- ☁️ **AWS Certified Solutions Architect (EC2, S3, RDS, Lambda, Docker)**  
-- ⚡ Skilled in **team leadership, mentoring, and agile practices**  
-- 🔍 Passionate about **performance optimization, high availability & resilience**  
+- ☁️ **AWS Architect** (EC2, S3, RDS, Lambda, Docker)  
+- 🛠️ **Microservices, Event-driven architecture, Elasticsearch, RabbitMQ**  
+- 👨‍🏫 Team Lead, mentoring engineers and driving Agile delivery  
+- 🔍 Passionate about **performance optimization, distributed systems, resilience**  
 
 ---
 
@@ -53,51 +53,37 @@
 
 ---
 
-## 💼 Experience
-
-**👨‍💻 Senior Software Engineer & Team Lead @ Syftet** *(2021 – Present)*  
-✔ Led backend (Node.js, Express) & frontend (React, React Native)  
-✔ Built & deployed scalable **iOS/Android apps**  
-✔ Optimized legacy systems & introduced **Agile practices**  
-✔ Mentored developers and fostered team collaboration  
-
-**💻 Software Engineer @ Cloud Production** *(2018 – 2021)*  
-✔ Designed architecture & full-stack development (Node.js, React, Laravel)  
-✔ Optimized performance & managed multiple projects  
-✔ Conducted requirement analysis, client meetings & code reviews  
-
-**🛠️ Software Engineer @ Samurai Geeks Solutions** *(2017 – 2018)*  
-✔ Developed & maintained **Laravel applications**  
-✔ Collaborated across teams to design & deploy new features  
-
----
-
 ## 🚀 Featured Projects
 
 ### 📚 **Instructory – Online Educational Platform**  
-🔹 Stack: **Laravel, Node.js, React, React Native, AWS, Docker, PostgreSQL**  
-🔹 Microservices-based scalable e-learning system with **streaming, quizzes, analytics**  
+🔹 Scalable **microservices-based** system with video streaming & quizzes  
+🔹 Stack: Laravel, Node.js, React, React Native, AWS, Docker, PostgreSQL  
 
 ### 🕌 **Daily Islam – Islamic Lifestyle App**  
-🔹 Stack: **Node.js, Express, React Native, AWS, Redis, PostgreSQL**  
-🔹 Features: **Prayer times, Quran recitation, Hadith, reminders**  
-🔹 Optimized cross-platform builds & fixed legacy issues  
+🔹 Features: Prayer times, Quran, Hadith, reminders  
+🔹 Stack: Node.js, React Native, AWS, Redis, PostgreSQL  
 
 ### 🛡️ **My Welcome App – Visitor Management System**  
-🔹 Stack: **Node.js, React, React Native, Microservices, RabbitMQ, PostgreSQL**  
-🔹 Enterprise-ready visitor management system with **real-time monitoring**  
+🔹 Enterprise-level visitor management with **real-time monitoring**  
+🔹 Stack: Node.js, Microservices, RabbitMQ, PostgreSQL  
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASIFRAHMANBD&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIFRAHMANBD&theme=tokyonight" height="165" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASIFRAHMANBD&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASIFRAHMANBD&theme=tokyonight" />
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ASIFRAHMANBD&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIFRAHMANBD&layout=compact&theme=tokyonight" />
 </p>
 
 ---
